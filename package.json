@@ -1,0 +1,34 @@
+{
+  "name": "next-onboarding-portal",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@jsonforms/core": "^3.3.0",
+    "@jsonforms/material-renderers": "^3.3.0",
+    "@jsonforms/react": "^3.3.0",
+    "@mui/icons-material": "^5.15.19",
+    "@mui/lab": "5.0.0-alpha.170",
+    "@mui/material": "^5.15.19",
+    "@mui/x-date-pickers": "^7.6.2",
+    "next": "14.2.3",
+    "react": "^18",
+    "react-dom": "^18",
+    "react18-loaders": "^1.0.3"
+  },
+  "devDependencies": {
+    "@types/node": "^20",
+    "@types/react": "^18",
+    "@types/react-dom": "^18",
+    "eslint": "^8",
+    "eslint-config-next": "14.2.3",
+    "prettier": "^3.3.1",
+    "sass": "^1.77.4",
+    "typescript": "^5"
+  }
+}
